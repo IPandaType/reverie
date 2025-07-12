@@ -1,8 +1,7 @@
-# Large files
+# Large files to exclude
 *.stl
 *.obj
 *.fbx
-*.glb
 *.mp4
 *.MP4
 *.rar
@@ -14,3 +13,6 @@
 
 # Keep essential files
 !incredibles.jpg
+!Baby.gltf
+!*.gltf
+!*.glb
