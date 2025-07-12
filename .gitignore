@@ -16,3 +16,5 @@
 !Baby.gltf
 !*.gltf
 !*.glb
+.idea
+.DS_Store
