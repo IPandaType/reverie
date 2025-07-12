@@ -1,0 +1,16 @@
+# Large files
+*.stl
+*.obj
+*.fbx
+*.glb
+*.mp4
+*.MP4
+*.rar
+*.zip
+
+# Large images
+*.png
+*.PNG
+
+# Keep essential files
+!incredibles.jpg
